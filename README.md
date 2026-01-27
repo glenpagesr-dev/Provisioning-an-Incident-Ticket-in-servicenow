@@ -25,7 +25,7 @@ This guide outlines the standard procedure for submitting a new incident ticket 
 1. On the Incidents page, click New to open a blank incident form.
 
 # Step 4: Enter Incident Details
-![image alt]
+![image alt](https://github.com/glenpagesr-dev/servicenow/blob/92cee78811755bd1bb0fb6e607680155181534b5/SN%20details.png)
 1. In the Short description field, provide a concise summary of the issue or request.
 
 2. Clearly state the problem, impacted service, or user-facing symptom.
