@@ -2,7 +2,7 @@
 
 https://www.loom.com/share/42a831b65a4d4485abf5deb882f0bbd3
 
-# servicenow
+# Provisioning an Incident Ticket in servicenow
 A hands-on lab demonstrating the setup and configuration of a Incident ticket in Servicenow
 Creating an Incident Ticket in ServiceNow
 
